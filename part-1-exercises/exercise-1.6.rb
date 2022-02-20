@@ -1,0 +1,1 @@
+puts '\'Single Quotes\' is actually my favorite movie. It\'s geat.' # can also do doublequotes instead of single
